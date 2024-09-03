@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Visual Studio Projects\\C#.NET\\SMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17E63453-A755-4830-A08F-7E36E86716F2}|SMS\\SMS.csproj|f:\\visual studio projects\\c#.net\\sms\\sms\\studentrectify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E63453-A755-4830-A08F-7E36E86716F2}|SMS\\SMS.csproj|solutionrelative:sms\\studentrectify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E63453-A755-4830-A08F-7E36E86716F2}|SMS\\SMS.csproj|F:\\Visual Studio Projects\\C#.NET\\SMS\\sms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17E63453-A755-4830-A08F-7E36E86716F2}|SMS\\SMS.csproj|solutionrelative:sms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E63453-A755-4830-A08F-7E36E86716F2}|SMS\\SMS.csproj|f:\\visual studio projects\\c#.net\\sms\\sms\\l or r.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E63453-A755-4830-A08F-7E36E86716F2}|SMS\\SMS.csproj|solutionrelative:sms\\l or r.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E63453-A755-4830-A08F-7E36E86716F2}|SMS\\SMS.csproj|f:\\visual studio projects\\c#.net\\sms\\sms\\wcontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E63453-A755-4830-A08F-7E36E86716F2}|SMS\\SMS.csproj|solutionrelative:sms\\wcontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E63453-A755-4830-A08F-7E36E86716F2}|SMS\\SMS.csproj|f:\\visual studio projects\\c#.net\\sms\\sms\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E63453-A755-4830-A08F-7E36E86716F2}|SMS\\SMS.csproj|solutionrelative:sms\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E63453-A755-4830-A08F-7E36E86716F2}|SMS\\SMS.csproj|F:\\Visual Studio Projects\\C#.NET\\SMS\\sms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E63453-A755-4830-A08F-7E36E86716F2}|SMS\\SMS.csproj|solutionrelative:sms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E63453-A755-4830-A08F-7E36E86716F2}|SMS\\SMS.csproj|f:\\visual studio projects\\c#.net\\sms\\sms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E63453-A755-4830-A08F-7E36E86716F2}|SMS\\SMS.csproj|solutionrelative:sms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentRectify.cs",
+              "DocumentMoniker": "F:\\Visual Studio Projects\\C#.NET\\SMS\\SMS\\StudentRectify.cs",
+              "RelativeDocumentMoniker": "SMS\\StudentRectify.cs",
+              "ToolTip": "F:\\Visual Studio Projects\\C#.NET\\SMS\\SMS\\StudentRectify.cs",
+              "RelativeToolTip": "SMS\\StudentRectify.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAmwLAAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:10:23.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WControls.cs",
+              "DocumentMoniker": "F:\\Visual Studio Projects\\C#.NET\\SMS\\SMS\\WControls.cs",
+              "RelativeDocumentMoniker": "SMS\\WControls.cs",
+              "ToolTip": "F:\\Visual Studio Projects\\C#.NET\\SMS\\SMS\\WControls.cs",
+              "RelativeToolTip": "SMS\\WControls.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAwwEAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:39:17.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "L or R.cs",
+              "DocumentMoniker": "F:\\Visual Studio Projects\\C#.NET\\SMS\\SMS\\L or R.cs",
+              "RelativeDocumentMoniker": "SMS\\L or R.cs",
+              "ToolTip": "F:\\Visual Studio Projects\\C#.NET\\SMS\\SMS\\L or R.cs",
+              "RelativeToolTip": "SMS\\L or R.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAIwEwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:38:35.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cs",
+              "DocumentMoniker": "F:\\Visual Studio Projects\\C#.NET\\SMS\\SMS\\Register.cs",
+              "RelativeDocumentMoniker": "SMS\\Register.cs",
+              "ToolTip": "F:\\Visual Studio Projects\\C#.NET\\SMS\\SMS\\Register.cs",
+              "RelativeToolTip": "SMS\\Register.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAewE0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:02:15.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Visual Studio Projects\\C#.NET\\SMS\\SMS\\Program.cs",
+              "RelativeDocumentMoniker": "SMS\\Program.cs",
+              "ToolTip": "F:\\Visual Studio Projects\\C#.NET\\SMS\\SMS\\Program.cs",
+              "RelativeToolTip": "SMS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:37:12.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "F:\\Visual Studio Projects\\C#.NET\\SMS\\SMS\\Dashboard.cs",
+              "RelativeDocumentMoniker": "SMS\\Dashboard.cs",
+              "ToolTip": "F:\\Visual Studio Projects\\C#.NET\\SMS\\SMS\\Dashboard.cs",
+              "RelativeToolTip": "SMS\\Dashboard.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAwwF0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T03:45:32.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "F:\\Visual Studio Projects\\C#.NET\\SMS\\SMS\\Dashboard.cs",
+              "RelativeDocumentMoniker": "SMS\\Dashboard.cs",
+              "ToolTip": "F:\\Visual Studio Projects\\C#.NET\\SMS\\SMS\\Dashboard.cs [Design]",
+              "RelativeToolTip": "SMS\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:55:28.52Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+D:\Visual Studio Projects\C#.NET\SMS\SMS\bin\Debug\SMS.exe.config
+D:\Visual Studio Projects\C#.NET\SMS\SMS\bin\Debug\SMS.exe
+D:\Visual Studio Projects\C#.NET\SMS\SMS\bin\Debug\SMS.pdb
+D:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.Dashboard.resources
+D:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.Properties.Resources.resources
+D:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.csproj.GenerateResource.cache
+D:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.exe
+D:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.pdb
+D:\Visual Studio Projects\C#.NET\SMS\SMS\bin\Debug\Custom Picture Box.dll
+D:\Visual Studio Projects\C#.NET\SMS\SMS\bin\Debug\Custom Picture Box.pdb
+D:\Visual Studio Projects\C#.NET\SMS\SMS\bin\Debug\Custom Picture Box.dll.config
+D:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.g.resources
+D:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.csproj.Up2Date
+D:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.AdmissionUC.resources
+D:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.Student.resources
+D:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.ToasterMsg.resources
+D:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.StudentRectify.resources
+D:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.StudentTerminate.resources
+D:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.L_or_R.resources
+D:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.Register.resources
+D:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.BkIssue.resources
+F:\Visual Studio Projects\C#.NET\SMS\SMS\bin\Debug\SMS.exe.config
+F:\Visual Studio Projects\C#.NET\SMS\SMS\bin\Debug\SMS.exe
+F:\Visual Studio Projects\C#.NET\SMS\SMS\bin\Debug\SMS.pdb
+F:\Visual Studio Projects\C#.NET\SMS\SMS\bin\Debug\Custom Picture Box.dll
+F:\Visual Studio Projects\C#.NET\SMS\SMS\bin\Debug\Custom Picture Box.pdb
+F:\Visual Studio Projects\C#.NET\SMS\SMS\bin\Debug\Custom Picture Box.dll.config
+F:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.csproj.AssemblyReference.cache
+F:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.g.resources
+F:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.AdmissionUC.resources
+F:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.BkIssue.resources
+F:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.Dashboard.resources
+F:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.L_or_R.resources
+F:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.Properties.Resources.resources
+F:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.Register.resources
+F:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.Student.resources
+F:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.StudentRectify.resources
+F:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.StudentTerminate.resources
+F:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.ToasterMsg.resources
+F:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.csproj.GenerateResource.cache
+F:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.csproj.Up2Date
+F:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.exe
+F:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.pdb
