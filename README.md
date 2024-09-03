@@ -1,7 +1,7 @@
 # Student_Management_System
 ---------------------------------
 
-##This Software is created in C# Dot Net.
+## This Software is created in C# Dot Net.
 
 ### Features
 ------------
