@@ -44,3 +44,26 @@ F:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.csproj.CoreCompileInputs.
 F:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.csproj.Up2Date
 F:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.exe
 F:\Visual Studio Projects\C#.NET\SMS\SMS\obj\Debug\SMS.pdb
+D:\github\Student_Management_System\SMS\bin\Debug\SMS.exe.config
+D:\github\Student_Management_System\SMS\bin\Debug\SMS.exe
+D:\github\Student_Management_System\SMS\bin\Debug\SMS.pdb
+D:\github\Student_Management_System\SMS\bin\Debug\Custom Picture Box.pdb
+D:\github\Student_Management_System\SMS\bin\Debug\Custom Picture Box.dll.config
+D:\github\Student_Management_System\SMS\obj\Debug\SMS.csproj.AssemblyReference.cache
+D:\github\Student_Management_System\SMS\obj\Debug\SMS.exe.config
+D:\github\Student_Management_System\SMS\obj\Debug\SMS.g.resources
+D:\github\Student_Management_System\SMS\obj\Debug\SMS.AdmissionUC.resources
+D:\github\Student_Management_System\SMS\obj\Debug\SMS.BkIssue.resources
+D:\github\Student_Management_System\SMS\obj\Debug\SMS.Dashboard.resources
+D:\github\Student_Management_System\SMS\obj\Debug\SMS.L_or_R.resources
+D:\github\Student_Management_System\SMS\obj\Debug\SMS.Properties.Resources.resources
+D:\github\Student_Management_System\SMS\obj\Debug\SMS.Register.resources
+D:\github\Student_Management_System\SMS\obj\Debug\SMS.Student.resources
+D:\github\Student_Management_System\SMS\obj\Debug\SMS.StudentRectify.resources
+D:\github\Student_Management_System\SMS\obj\Debug\SMS.StudentTerminate.resources
+D:\github\Student_Management_System\SMS\obj\Debug\SMS.ToasterMsg.resources
+D:\github\Student_Management_System\SMS\obj\Debug\SMS.csproj.GenerateResource.cache
+D:\github\Student_Management_System\SMS\obj\Debug\SMS.csproj.CoreCompileInputs.cache
+D:\github\Student_Management_System\SMS\obj\Debug\SMS.csproj.Up2Date
+D:\github\Student_Management_System\SMS\obj\Debug\SMS.exe
+D:\github\Student_Management_System\SMS\obj\Debug\SMS.pdb
