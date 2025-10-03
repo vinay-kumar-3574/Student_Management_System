@@ -53,6 +53,8 @@ Make sure you have installed:
    specify the .bacpac file -> When it asks for the database name, 
    keep the same name: 'School'.
    ```
+   <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/03dd02a2-b7a0-4328-bc86-4360637c53bc" />
+
 3. Open the `SMS.sln` file in Visual Studio.
 4. Update the connection string in the `*.cs` files.
 
