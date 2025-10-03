@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "D:\\github\\Student_Management_System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17E63453-A755-4830-A08F-7E36E86716F2}|SMS\\SMS.csproj|D:\\github\\Student_Management_System\\sms\\wcontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{17E63453-A755-4830-A08F-7E36E86716F2}|SMS\\SMS.csproj|d:\\github\\student_management_system\\sms\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E63453-A755-4830-A08F-7E36E86716F2}|SMS\\SMS.csproj|solutionrelative:sms\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E63453-A755-4830-A08F-7E36E86716F2}|SMS\\SMS.csproj|d:\\github\\student_management_system\\sms\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{17E63453-A755-4830-A08F-7E36E86716F2}|SMS\\SMS.csproj|solutionrelative:sms\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E63453-A755-4830-A08F-7E36E86716F2}|SMS\\SMS.csproj|d:\\github\\student_management_system\\sms\\wcontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17E63453-A755-4830-A08F-7E36E86716F2}|SMS\\SMS.csproj|solutionrelative:sms\\wcontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17E63453-A755-4830-A08F-7E36E86716F2}|SMS\\SMS.csproj|d:\\github\\student_management_system\\sms\\studentrectify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{17E63453-A755-4830-A08F-7E36E86716F2}|SMS\\SMS.csproj|D:\\github\\Student_Management_System\\sms\\studentrectify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17E63453-A755-4830-A08F-7E36E86716F2}|SMS\\SMS.csproj|solutionrelative:sms\\studentrectify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17E63453-A755-4830-A08F-7E36E86716F2}|SMS\\SMS.csproj|D:\\github\\Student_Management_System\\sms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{17E63453-A755-4830-A08F-7E36E86716F2}|SMS\\SMS.csproj|solutionrelative:sms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{17E63453-A755-4830-A08F-7E36E86716F2}|SMS\\SMS.csproj|D:\\github\\Student_Management_System\\sms\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E63453-A755-4830-A08F-7E36E86716F2}|SMS\\SMS.csproj|solutionrelative:sms\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17E63453-A755-4830-A08F-7E36E86716F2}|SMS\\SMS.csproj|D:\\github\\Student_Management_System\\sms\\l or r.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17E63453-A755-4830-A08F-7E36E86716F2}|SMS\\SMS.csproj|solutionrelative:sms\\l or r.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17E63453-A755-4830-A08F-7E36E86716F2}|SMS\\SMS.csproj|D:\\github\\Student_Management_System\\sms\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17E63453-A755-4830-A08F-7E36E86716F2}|SMS\\SMS.csproj|solutionrelative:sms\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{17E63453-A755-4830-A08F-7E36E86716F2}|SMS\\SMS.csproj|D:\\github\\Student_Management_System\\sms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17E63453-A755-4830-A08F-7E36E86716F2}|SMS\\SMS.csproj|solutionrelative:sms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17E63453-A755-4830-A08F-7E36E86716F2}|SMS\\SMS.csproj|D:\\github\\Student_Management_System\\sms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,45 +46,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "D:\\github\\Student_Management_System\\SMS\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "SMS\\Properties\\Settings.Designer.cs",
+              "ToolTip": "D:\\github\\Student_Management_System\\SMS\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "SMS\\Properties\\Settings.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T11:15:08.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\github\\Student_Management_System\\SMS\\App.config",
+              "RelativeDocumentMoniker": "SMS\\App.config",
+              "ToolTip": "D:\\github\\Student_Management_System\\SMS\\App.config",
+              "RelativeToolTip": "SMS\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-03T11:15:05.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "StudentRectify.cs",
               "DocumentMoniker": "D:\\github\\Student_Management_System\\SMS\\StudentRectify.cs",
               "RelativeDocumentMoniker": "SMS\\StudentRectify.cs",
               "ToolTip": "D:\\github\\Student_Management_System\\SMS\\StudentRectify.cs",
               "RelativeToolTip": "SMS\\StudentRectify.cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAmwLAAAABhAAAAAAAAAA==",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAmwKQAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T15:10:23.669Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "WControls.cs",
               "DocumentMoniker": "D:\\github\\Student_Management_System\\SMS\\WControls.cs",
               "RelativeDocumentMoniker": "SMS\\WControls.cs",
               "ToolTip": "D:\\github\\Student_Management_System\\SMS\\WControls.cs",
               "RelativeToolTip": "SMS\\WControls.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAUwFMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwEIAAABsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T13:39:17.159Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "L or R.cs",
               "DocumentMoniker": "D:\\github\\Student_Management_System\\SMS\\L or R.cs",
               "RelativeDocumentMoniker": "SMS\\L or R.cs",
               "ToolTip": "D:\\github\\Student_Management_System\\SMS\\L or R.cs",
               "RelativeToolTip": "SMS\\L or R.cs",
-              "ViewState": "AQIAAHoAAAAAAAAAAAAIwEwAAAAbAAAA",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAIwEwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T13:38:35.12Z"
+              "WhenOpened": "2024-09-03T13:38:35.12Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -86,43 +121,48 @@
               "RelativeDocumentMoniker": "SMS\\Register.cs",
               "ToolTip": "D:\\github\\Student_Management_System\\SMS\\Register.cs",
               "RelativeToolTip": "SMS\\Register.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAewE0AAAAbAAAA",
+              "ViewState": "AgIAADwAAAAAAAAAAIA0wE0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T14:02:15.103Z"
+              "WhenOpened": "2024-09-03T14:02:15.103Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\github\\Student_Management_System\\SMS\\Program.cs",
               "RelativeDocumentMoniker": "SMS\\Program.cs",
               "ToolTip": "D:\\github\\Student_Management_System\\SMS\\Program.cs",
               "RelativeToolTip": "SMS\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T13:37:12.527Z"
+              "WhenOpened": "2024-09-03T13:37:12.527Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Dashboard.cs",
               "DocumentMoniker": "D:\\github\\Student_Management_System\\SMS\\Dashboard.cs",
               "RelativeDocumentMoniker": "SMS\\Dashboard.cs",
               "ToolTip": "D:\\github\\Student_Management_System\\SMS\\Dashboard.cs",
               "RelativeToolTip": "SMS\\Dashboard.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAwwF0AAAAbAAAA",
+              "ViewState": "AgIAAEUAAAAAAAAAAAA9wF0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T03:45:32.353Z"
+              "WhenOpened": "2024-05-25T03:45:32.353Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Dashboard.cs [Design]",
               "DocumentMoniker": "D:\\github\\Student_Management_System\\SMS\\Dashboard.cs",
               "RelativeDocumentMoniker": "SMS\\Dashboard.cs",
-              "ToolTip": "F:\\Visual Studio Projects\\C#.NET\\SMS\\SMS\\Dashboard.cs [Design]",
+              "ToolTip": "D:\\github\\Student_Management_System\\SMS\\Dashboard.cs [Design]",
+              "RelativeToolTip": "SMS\\Dashboard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T04:55:28.52Z"
+              "WhenOpened": "2024-05-24T04:55:28.52Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

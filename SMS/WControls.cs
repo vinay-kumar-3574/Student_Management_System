@@ -64,7 +64,7 @@ namespace SMS
         {
             Application.Exit();
         }
-        public static SqlConnection connection = new SqlConnection("Data Source=RABINDRA\\SQLEXPRESS;Initial Catalog=School;Integrated Security=True;");
+        public static SqlConnection connection = new SqlConnection("Data Source=YOUR_SERVER_NAME\\SQLEXPRESS;Initial Catalog=School;Integrated Security=True;");
         public static void DBConOpen()
         {
             connection.Open();
