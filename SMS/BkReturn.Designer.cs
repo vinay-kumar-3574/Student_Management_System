@@ -52,7 +52,6 @@ namespace SMS
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.label1 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
             this.label9 = new System.Windows.Forms.Label();
             this.BackPanel.SuspendLayout();
@@ -81,7 +80,6 @@ namespace SMS
             this.BackPanel.Controls.Add(this.label4);
             this.BackPanel.Controls.Add(this.label3);
             this.BackPanel.Controls.Add(this.label2);
-            this.BackPanel.Controls.Add(this.label1);
             this.BackPanel.Controls.Add(this.panel1);
             this.BackPanel.Controls.Add(this.label9);
             this.BackPanel.Location = new System.Drawing.Point(20, 14);
