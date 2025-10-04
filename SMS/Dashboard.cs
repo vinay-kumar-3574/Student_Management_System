@@ -398,8 +398,10 @@ namespace SMS
             {
                 Old_UserControl.Dispose();
                 WorkingPanel.Controls.Clear();
-
-                //
+                BkReturn BookReturn = new BkReturn();
+                BookReturn.Dock = DockStyle.Fill;
+                Old_UserControl = BookReturn;
+                WorkingPanel.Controls.Add(BookReturn);
 
                 label6.ForeColor = Color.FromArgb(253, 197, 0);
                 Terminationbtn_pnl.ForeColor = Color.White;

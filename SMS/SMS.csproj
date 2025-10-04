@@ -61,6 +61,12 @@
     <Compile Include="BkIssue.Designer.cs">
       <DependentUpon>BkIssue.cs</DependentUpon>
     </Compile>
+    <Compile Include="BkReturn.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BkReturn.Designer.cs">
+      <DependentUpon>BkReturn.cs</DependentUpon>
+    </Compile>
     <Compile Include="Dashboard.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -117,6 +123,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="BkIssue.resx">
       <DependentUpon>BkIssue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BkReturn.resx">
+      <DependentUpon>BkReturn.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Dashboard.resx">
       <DependentUpon>Dashboard.cs</DependentUpon>
