@@ -110,7 +110,7 @@ namespace SMS
             // 
             this.Report_tbx.Font = new System.Drawing.Font("Bookman Old Style", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Report_tbx.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(5)))), ((int)(((byte)(31)))), ((int)(((byte)(62)))));
-            this.Report_tbx.Location = new System.Drawing.Point(244, 252);
+            this.Report_tbx.Location = new System.Drawing.Point(244, 284);
             this.Report_tbx.Multiline = true;
             this.Report_tbx.Name = "Report_tbx";
             this.Report_tbx.Size = new System.Drawing.Size(242, 50);
@@ -121,7 +121,7 @@ namespace SMS
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("Bookman Old Style", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(5)))), ((int)(((byte)(31)))), ((int)(((byte)(62)))));
-            this.label8.Location = new System.Drawing.Point(17, 253);
+            this.label8.Location = new System.Drawing.Point(17, 285);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(95, 28);
             this.label8.TabIndex = 60;
@@ -131,7 +131,7 @@ namespace SMS
             // 
             this.Total_fine_tbx.Font = new System.Drawing.Font("Bookman Old Style", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Total_fine_tbx.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(5)))), ((int)(((byte)(31)))), ((int)(((byte)(62)))));
-            this.Total_fine_tbx.Location = new System.Drawing.Point(612, 204);
+            this.Total_fine_tbx.Location = new System.Drawing.Point(612, 236);
             this.Total_fine_tbx.Multiline = true;
             this.Total_fine_tbx.Name = "Total_fine_tbx";
             this.Total_fine_tbx.ReadOnly = true;
@@ -143,7 +143,7 @@ namespace SMS
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Bookman Old Style", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(5)))), ((int)(((byte)(31)))), ((int)(((byte)(62)))));
-            this.label7.Location = new System.Drawing.Point(440, 204);
+            this.label7.Location = new System.Drawing.Point(440, 236);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(140, 28);
             this.label7.TabIndex = 58;
@@ -157,7 +157,7 @@ namespace SMS
             this.Return_btn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Return_btn.Font = new System.Drawing.Font("Bookman Old Style", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Return_btn.ForeColor = System.Drawing.Color.White;
-            this.Return_btn.Location = new System.Drawing.Point(649, 253);
+            this.Return_btn.Location = new System.Drawing.Point(649, 285);
             this.Return_btn.Name = "Return_btn";
             this.Return_btn.Size = new System.Drawing.Size(155, 50);
             this.Return_btn.TabIndex = 57;
@@ -188,7 +188,7 @@ namespace SMS
             dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
             dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
             this.dataGridView1.DefaultCellStyle = dataGridViewCellStyle2;
-            this.dataGridView1.Location = new System.Drawing.Point(22, 351);
+            this.dataGridView1.Location = new System.Drawing.Point(22, 380);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
             dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
@@ -270,7 +270,7 @@ namespace SMS
             // 
             this.Book_name_tbx.Font = new System.Drawing.Font("Bookman Old Style", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Book_name_tbx.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(5)))), ((int)(((byte)(31)))), ((int)(((byte)(62)))));
-            this.Book_name_tbx.Location = new System.Drawing.Point(244, 204);
+            this.Book_name_tbx.Location = new System.Drawing.Point(244, 236);
             this.Book_name_tbx.Multiline = true;
             this.Book_name_tbx.Name = "Book_name_tbx";
             this.Book_name_tbx.ReadOnly = true;
@@ -281,7 +281,7 @@ namespace SMS
             // 
             this.Card_no_tbx.Font = new System.Drawing.Font("Bookman Old Style", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Card_no_tbx.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(5)))), ((int)(((byte)(31)))), ((int)(((byte)(62)))));
-            this.Card_no_tbx.Location = new System.Drawing.Point(244, 150);
+            this.Card_no_tbx.Location = new System.Drawing.Point(244, 193);
             this.Card_no_tbx.Multiline = true;
             this.Card_no_tbx.Name = "Card_no_tbx";
             this.Card_no_tbx.ReadOnly = true;
@@ -292,7 +292,7 @@ namespace SMS
             // 
             this.Student_id_tbx.Font = new System.Drawing.Font("Bookman Old Style", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Student_id_tbx.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(5)))), ((int)(((byte)(31)))), ((int)(((byte)(62)))));
-            this.Student_id_tbx.Location = new System.Drawing.Point(244, 193);
+            this.Student_id_tbx.Location = new System.Drawing.Point(244, 150);
             this.Student_id_tbx.Multiline = true;
             this.Student_id_tbx.Name = "Student_id_tbx";
             this.Student_id_tbx.ReadOnly = true;
@@ -315,7 +315,7 @@ namespace SMS
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Bookman Old Style", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(5)))), ((int)(((byte)(31)))), ((int)(((byte)(62)))));
-            this.label4.Location = new System.Drawing.Point(17, 204);
+            this.label4.Location = new System.Drawing.Point(17, 236);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(153, 28);
             this.label4.TabIndex = 47;
@@ -326,7 +326,7 @@ namespace SMS
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Bookman Old Style", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(5)))), ((int)(((byte)(31)))), ((int)(((byte)(62)))));
-            this.label3.Location = new System.Drawing.Point(17, 150);
+            this.label3.Location = new System.Drawing.Point(17, 193);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(216, 28);
             this.label3.TabIndex = 46;
@@ -337,22 +337,12 @@ namespace SMS
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Bookman Old Style", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(5)))), ((int)(((byte)(31)))), ((int)(((byte)(62)))));
-            this.label2.Location = new System.Drawing.Point(17, 193);
+            this.label2.Location = new System.Drawing.Point(17, 150);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(148, 28);
             this.label2.TabIndex = 45;
             this.label2.Text = "Student ID";
             // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Bookman Old Style", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(5)))), ((int)(((byte)(31)))), ((int)(((byte)(62)))));
-            this.label1.Location = new System.Drawing.Point(17, 193);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(148, 28);
-            this.label1.TabIndex = 44;
-            this.label1.Text = "Student ID";
             // 
             // panel1
             // 
@@ -410,7 +400,6 @@ namespace SMS
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Label label9;
     }
